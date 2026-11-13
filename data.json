@@ -79,12 +79,12 @@
   "accent_color": "#d4af37",
   "main_background": "#000003",
   "secondary_background": "#050508",
-  "button_background": "#e5fc51",
+  "button_background": "#f8c552",
   "button_text_color": "#FFFFFF",
   "text_color": "#FFFFFF",
   "color_highlight_text": "#FFFFFF",
   "color_main_btn_text": "#FFFFFF",
-  "cta_background": "#e5fc51",
+  "cta_background": "#f8c552",
   "logo": {
     "url": "/uploads/hahaspin-logo.svg"
   },
@@ -245,8 +245,8 @@
       "question": "Is HahaSpin Casino open to players in the United Kingdom?"
     }
   ],
-  "_generated_at": "2026-11-13T15:11:51.415Z",
+  "_generated_at": "2026-11-13T15:14:40.193Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-13T15:11:52.056Z",
-  "_deploy_trigger": "19pt6b"
+  "_last_deploy": "2026-11-13T15:14:40.839Z",
+  "_deploy_trigger": "ien8oc"
 }
