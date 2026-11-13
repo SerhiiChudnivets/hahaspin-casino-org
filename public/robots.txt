@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /trackback/
 Disallow: /play/*
 
-Sitemap: https://tiffany-luck.uk/sitemap.xml
+Sitemap: https://hahaspin-casino.org/sitemap.xml
