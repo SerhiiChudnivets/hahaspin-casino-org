@@ -60,10 +60,10 @@
   "seo_description": "HahaSpin Casino UK offers an extensive gaming library featuring thousands of video slots and exciting jackpots. Join now and start exploring our platform!",
   "redirect_site": null,
   "hero_title": "HahaSpin Casino",
-  "hero_subtitle": "Welcome Bonus",
+  "hero_subtitle": "Licensed & Regulated Online Casino",
   "hero_badge": "HahaSpin Casino: New Player Bonus",
   "cta_text": "Join Now",
-  "tagline": "100% up to £500 + 100 Free Spins",
+  "tagline": "Welcome Bonus 100% up to £500 + 100 Free Spins",
   "features_list": null,
   "footer_text": "© 2026. HahaSpin Casino. All rights reserved",
   "popup_text": "Bonus 100% up to £500 + 100 FS",
@@ -245,8 +245,8 @@
       "question": "Is HahaSpin Casino open to players in the United Kingdom?"
     }
   ],
-  "_generated_at": "2026-11-19T09:01:00.521Z",
+  "_generated_at": "2026-11-19T11:08:32.055Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-19T09:01:01.337Z",
-  "_deploy_trigger": "gmh59f"
+  "_last_deploy": "2026-11-19T11:08:32.831Z",
+  "_deploy_trigger": "a9cgi"
 }
